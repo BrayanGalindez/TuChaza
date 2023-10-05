@@ -6,7 +6,7 @@
    - Clona este proyecto en tu computadora utilizando el siguiente comando en tu terminal:
    
      ```
-     git clone [URL_DEL_REPOSITORIO](https://github.com/BrayanGalindez/TuChaza)
+     git clone https://github.com/BrayanGalindez/TuChaza
      ```
 
 2. **Inicializar los Módulos:**
